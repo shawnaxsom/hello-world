@@ -118,4 +118,3 @@ $ kubectl logs hello-world-776fc969b9-8m457
 ## License
 
 Licensed under Apache 2.0. Please see [License](LICENSE) for details.
-
